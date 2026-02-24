@@ -1,0 +1,27 @@
+how to open 
+ 
+if don't have streamlight 
+
+download python version 
+ 3.8 to 3.14 
+step 1: pip install streamlit pandas scikit-learn joblib
+install stream light
+
+step 2:check version
+ streamlit --version
+
+step 3: check floder need like this 
+pestproject/
+ ├── app.py
+ ├── pest_model.pkl
+ └── README.md          
+
+step 4: open command prompt
+locate your floder
+
+step 5 : run this command \
+streamlit run app.py
+
+step 6: you will see this 
+Local URL: http://localhost:8501
+
